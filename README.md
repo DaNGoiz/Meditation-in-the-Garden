@@ -12,6 +12,8 @@ The artwork we create in Project II is called “Meditation in the Backyard”. 
 - Text animation effect UI
 
 ![Scene Overview](images/scene_overview.JPG)
+
+We awarded the best project in the CCST9049 course!
 ![Rating](images/good_job.jpg)
 
 ## References
